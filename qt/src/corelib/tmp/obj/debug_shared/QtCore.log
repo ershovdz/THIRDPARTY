@@ -1,0 +1,28 @@
+﻿Build started 23.03.2012 22:59:33.
+     1>Project "C:\Qt\4.8.0\src\corelib\QtCore.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "tmp\obj\debug_shared\QtCore.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         QtCore.vcxproj -> C:\Qt\4.8.0\src\corelib\..\..\lib\QtCored4.dll
+       PostBuildEvent:
+         Description: Copy QtCored4.dll to ..\..\bin
+         copy  "C:\Qt\4.8.0\src\corelib\..\..\lib\QtCored4.dll" "..\..\bin"
+         :VCEnd
+                 1 file(s) copied.
+       FinalizeBuildStatus:
+         Deleting file "tmp\obj\debug_shared\QtCore.unsuccessfulbuild".
+         Touching "tmp\obj\debug_shared\QtCore.lastbuildstate".
+     1>Done Building Project "C:\Qt\4.8.0\src\corelib\QtCore.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.36

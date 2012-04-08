@@ -1,0 +1,28 @@
+﻿Build started 23.03.2012 22:59:42.
+     1>Project "C:\Qt\4.8.0\src\gui\QtGui.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "tmp\obj\debug_shared\QtGui.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         QtGui.vcxproj -> C:\Qt\4.8.0\src\gui\..\..\lib\QtGuid4.dll
+       PostBuildEvent:
+         Description: Copy QtGuid4.dll to ..\..\bin
+         copy  "C:\Qt\4.8.0\src\gui\..\..\lib\QtGuid4.dll" "..\..\bin"
+         :VCEnd
+                 1 file(s) copied.
+       FinalizeBuildStatus:
+         Deleting file "tmp\obj\debug_shared\QtGui.unsuccessfulbuild".
+         Touching "tmp\obj\debug_shared\QtGui.lastbuildstate".
+     1>Done Building Project "C:\Qt\4.8.0\src\gui\QtGui.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09
